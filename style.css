@@ -1,0 +1,47 @@
+html {
+  background: url("img/design-space-paper-textured-background.jpg") no-repeat
+    center fixed;
+  background-size: cover;
+}
+
+body {
+  background-color: rgb(225, 225, 225, 1);
+  border-radius: 15px;
+  width: 600px;
+  margin: 25px auto;
+  padding: 25px 150px 50px;
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.center {
+  text-align: center;
+}
+
+a {
+  color: navy;
+}
+
+a:hover {
+  font-weight: bold;
+}
+
+
+.yellow {
+
+
+  color: yellow;
+}
+
+
+.blue {
+
+
+color: blue;
+}
+
+
+.grey {
+
+
+  color: grey;
+}
